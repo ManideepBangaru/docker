@@ -11,4 +11,3 @@ For testing docker run, run below command
 ```
 sudo docker run docker/whalesay cowsay WelcomeAIOPS
 ```
-
